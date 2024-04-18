@@ -257,7 +257,7 @@ button:hover {
 }
 
 
-& .footer-txt {
+.footer-txt {
     background-color: rgb(85, 99, 222);
     color: white;
     text-align: center;
@@ -451,16 +451,15 @@ button:hover {
     }
 
 
-    .footer {
+  
 
-        & .footer-txt {
+        footer-txt {
 
             width: 129vw;
 
 
         }
-    }
-
+    
 }
 
 
@@ -614,7 +613,7 @@ button:hover {
 
 
 
-    & .glasses-cate {
+     .glasses-cate {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
